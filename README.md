@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=wser)
 
-[![Visits Badge](https://badges.pufler.dev/visits/wser/wser)](https://badges.pufler.dev)
 
-[![Visits Badge + bots](https://badges.pufler.dev/visits/wser/wser?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+[Visits:      ![Visits Badge](https://badges.pufler.dev/visits/wser/wser?size=50&padding=5&bots=false)](https://badges.pufler.dev)
+[Visits&Bots: ![Visits Badge](https://badges.pufler.dev/visits/wser/wser?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/wser)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/wser)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/wser)](https://badges.pufler.dev)
