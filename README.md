@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=wser)
 
 https://badges.pufler.dev/visits/wser/wser
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/wser/wser)](https://badges.pufler.dev)
+
+[![Visits Badge](https://badges.pufler.dev/visits/wser/wser?size=50&padding=5&bots=false)](https://badges.pufler.dev)
